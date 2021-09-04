@@ -1,0 +1,1 @@
+Code examples for deriving union of string literals from arrays described [here](https://dev.to/remshams/derive-union-of-string-literal-types-with-lookup-types-in-typescript-1kkf).
